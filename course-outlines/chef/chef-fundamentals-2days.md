@@ -58,46 +58,44 @@ Day I
    * Knife  Workstation Setup
    * Node Creation
    * Bootstrapping Node
-Node Object
-Cookbooks, Recipes Resources
-Packages, Cookbook Files, Services
-Run list
-Chef Authentication Process
-Validation Key
-Client Key, Client configs
-Resource Collection and Execution Phases
-
-
-Attributes and Templates
-Cookbook Attributes
+* Node Object
+* Cookbooks, Recipes Resources
+   * Packages, Cookbook Files, Services
+   * Run list
+* Chef Authentication Process
+   * Validation Key
+   * Client Key, Client configs
+* Resource Collection and Execution Phases
+* Attributes and Templates
+   * Cookbook Attributes
 
 Day II
-Attributes and Templates continued....
-ERB Templates
-Template Variables
-Cookbook Dependencies
-Attribute Precedence
 
-Execute Resource
-Execute resource to run ad hoc commands and scripts
-Controlling Idempotence
-Conditionals 
-Dependencies and Notifications
-Cookbook Dependencies
-Metadata , Versioning 
-Search  Deep Dive
-Learning to use Search with Chef
-Search Patterns 
-
-Data Bags
-Data bags to store global data
-Search and Databags
-Writing recipes to parse databags
-Roles
-Roles to Provide Abstraction
-Grouping together classes of servers with roles
-Attribute precedence levels and roles
-Environments
-Environments to provide isolation
-Cookbook constraints
-Environment specific attributes
+* Attributes and Templates continued....
+   * ERB Templates
+   * Template Variables
+* Cookbook Dependencies
+* Attribute Precedence
+* Execute Resource
+    * Execute resource to run ad hoc commands and scripts
+    * Controlling Idempotence
+* Conditionals 
+* Dependencies and Notifications
+   * Cookbook Dependencies
+   * Metadata , Versioning 
+* Search  Deep Dive
+   * Learning to use Search with Chef
+   * Search Patterns 
+* Data Bags
+   * Data bags to store global data
+   * Search and Databags
+   * Writing recipes to parse databags
+* Roles
+   * Roles to Provide Abstraction
+   * Grouping together classes of servers with roles
+   * Attribute precedence levels and roles
+* Environments
+   * Environments to provide isolation
+   * Cookbook constraints
+   * Environment specific attributes
+* Using Community Cookbooks 
