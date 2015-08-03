@@ -19,7 +19,7 @@ Hardware Software
 * Laptop/Desktop with internet connection
 * 8GB RAM
 * Quad Core CPU
-* 50 GB Disk Space available
+* 20 GB Disk Space available
 * Base OperatingSystem: Windows/Linux/OSX
 * VirtualBox
 * Vagrant
